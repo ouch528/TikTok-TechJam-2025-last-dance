@@ -57,7 +57,7 @@ AI & regulation → Balancing innovation with compliance and responsibility.
 
 ## ↩️ General Flow of Pipeline
 
-Data Collection (Both Reviews Dataset & User-Metadata Dataset) -> Data Cleaning -> EDA -> Feature Engineering -> Modelling -> Final Evaluation
+Data Collection (Both Reviews Dataset & User-Metadata Dataset) -> Data Cleaning -> EDA -> Feature Engineering -> Dataset Split -> Modelling -> Final Evaluation
 
 For the user_metadata dataset, we would be use the user's past reviews that we have collected, aggregate them to form user-level features, and merge them with the main `Reviews Dataset`.
 
