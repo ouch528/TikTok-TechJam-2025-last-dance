@@ -1,4 +1,5 @@
 .env
 .venv
+venv-tt/
 .DS_Store
 review-Nevada.json
