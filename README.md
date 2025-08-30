@@ -1,5 +1,8 @@
 # TikCheck
 
+TikCheck combines rule-based checks and fast deep neural networks to deliver more trustworthy and relevant Google reviews.
+
+
 ## 📌 Project Overview
 
 This project explores patterns in Google Local Reviews using Natural Language Processing (NLP) techniques. Our analysis focuses on uncovering insights that can inform platform strategies across five key stakeholder groups:
@@ -66,4 +69,4 @@ Please note that since we have crawled data using APIs, used GPT to synthesize d
 
 The dataset that we have collected (initial datasets) can be found under `final_data/initial_dataset.csv` and `final_data/user_metadata.csv`.
 
-As such, please start running the notebook from step2_data_cleaning.ipynb.
+As such, please start running the notebook from `step2_data_cleaning.ipynb` all the way to `step8_reporting.ipynb`.
