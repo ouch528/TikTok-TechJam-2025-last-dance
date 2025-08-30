@@ -3,3 +3,6 @@
 venv-tt/
 .DS_Store
 review-Nevada.json
+feature_engineered_dataset_reviews.csv
+train_dataset.csv
+final_dataset.csv
